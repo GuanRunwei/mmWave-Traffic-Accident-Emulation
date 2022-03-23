@@ -1,11 +1,11 @@
 # mmWave-Traffic-Accident-Emulation
 **It consists of**
 
-***1. an emulation framework to generate the accident scenes with imaging mmWave radar***
+***1. scripts: an emulation framework to generate the accident scenes with imaging mmWave radar***
 
-***2.CAD models of different traffic accidents in mat format***
+***2. CAD: CAD models of different traffic accidents in mat format***
 
-***3.Some code and pretrained models of neural network to do classification and detection***
+***3. Code: Some code and pretrained models of neural network to do classification and detection***
 
 ### Contributor
 
