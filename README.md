@@ -6,13 +6,13 @@
 
 ### Contributor
 
-*Runwei Guan, Yuanyuan Zhang, Yi Zhou, Liye Jia, Shanliang Yao*
+**Runwei Guan, Yuanyuan Zhang, Yi Zhou, Liye Jia, Shanliang Yao**
 
 ### Supervisors
-*Prof. Ka Lok Man*
-*Dr. Yutao Yue*
+**Prof. Ka Lok Man**
+**Dr. Yutao Yue**
 
 ### Affiliation
-*University of Liverpool*
-*Xi'an Jiaotong Liverpool University*
-*Institute of Deep Perception Technology, JITRI*
+**University of Liverpool**
+**Xi'an Jiaotong Liverpool University**
+**Institute of Deep Perception Technology, JITRI**
