@@ -17,7 +17,7 @@ theta_res_deg = 1; % elevation resolution = 1 degree
 
 %% FMCW radar parameters
 c = 3e8; % speed of light
-fc = 60*1e9; % radar center frequeny
+fc = 77*1e9; % radar center frequeny
 lambda = c/fc; % radar wavelength
 
 BW = 1.2e9; % FMCW bandwidth = 1.2 GHz
