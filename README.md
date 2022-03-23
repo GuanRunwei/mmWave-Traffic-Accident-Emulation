@@ -9,7 +9,7 @@
 
 ### Contributor
 
-**Runwei Guan, Yuanyuan Zhang, Yi Zhou, Liye Jia, Shanliang Yao**
+**Runwei Guan, Yuanyuan Zhang, Yi Zhou, Liye Jia, Shanliang Yao, Gefei Shi**
 
 ### Supervisors
 **Prof. Ka Lok Man**
@@ -22,3 +22,5 @@
 **Xi'an Jiaotong Liverpool University**
 
 **Institute of Deep Perception Technology, JITRI**
+
+**SAIC**
