@@ -9,7 +9,7 @@
 
 ### Contributor
 
-**Runwei Guan, Yuanyuan Zhang, Yi Zhou, Liye Jia, Shanliang Yao, Gefei Shi**
+**Runwei Guan, Yuanyuan Zhang, Liye Jia, Shanliang Yao, Gefei Shi**
 
 ### Supervisors
 **Prof. Ka Lok Man**
